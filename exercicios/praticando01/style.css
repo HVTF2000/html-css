@@ -1,0 +1,24 @@
+body{
+    background-color: #06EDA1;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 20px;
+}
+
+#principal{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: #06edd2;
+}
+
+.titulo{
+    background-color: #3A876D;
+    color: azure;
+}
+
+.subtitulo{
+    background-color: #35544A;
+    color: blanchedalmond;
+}
+
+
+
